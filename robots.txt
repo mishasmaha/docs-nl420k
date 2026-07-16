@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-e0hb1m.sushiknightgaming.co.nz/sitemap.xml
